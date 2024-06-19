@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "questionTitle": "What is the purpose of the 'main' function in a C program?",
+    "a": "To declare variables",
+    "b": "To serve as the entry point for program execution",
+    "c": "To perform input/output operations",
+    "d": "To initialize global variables",
+    "e": "To define macros",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 2,
+    "questionTitle": "Which of the following is a high-level programming language?",
+    "a": "Assembly",
+    "b": "Machine code",
+    "c": "Python",
+    "d": "Binary",
+    "e": "Hexadecimal",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 3,
+    "questionTitle": "What does HTML stand for?",
+    "a": "HyperText Markup Language",
+    "b": "HighText Machine Language",
+    "c": "Hyperlink Text Mark Language",
+    "d": "Hyperlinking Text Marking Language",
+    "e": "HyperTextual Markup Language",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 4,
+    "questionTitle": "Which symbol is used to denote comments in Python?",
+    "a": "#",
+    "b": "//",
+    "c": "/*",
+    "d": "<!--",
+    "e": "%",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 5,
+    "questionTitle": "Which of the following data types is used to store true/false values in Java?",
+    "a": "int",
+    "b": "float",
+    "c": "boolean",
+    "d": "char",
+    "e": "String",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 6,
+    "questionTitle": "What is the primary purpose of an algorithm?",
+    "a": "To act as a variable",
+    "b": "To define data structures",
+    "c": "To perform a specific task",
+    "d": "To provide a user interface",
+    "e": "To compile code",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 7,
+    "questionTitle": "In object-oriented programming, what is a class?",
+    "a": "A blueprint for creating objects",
+    "b": "A function",
+    "c": "A variable",
+    "d": "A data type",
+    "e": "A method",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 8,
+    "questionTitle": "Which of the following is NOT a looping structure in C?",
+    "a": "for",
+    "b": "while",
+    "c": "do-while",
+    "d": "foreach",
+    "e": "loop",
+    "correctAnswer": "e"
+  },
+  {
+    "id": 9,
+    "questionTitle": "What is the value of 3 + 4 * 2 in Python?",
+    "a": "14",
+    "b": "11",
+    "c": "7",
+    "d": "10",
+    "e": "9",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 10,
+    "questionTitle": "Which of the following languages is used for web development?",
+    "a": "HTML",
+    "b": "CSS",
+    "c": "JavaScript",
+    "d": "All of the above",
+    "e": "None of the above",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 11,
+    "questionTitle": "What does SQL stand for?",
+    "a": "Structured Query Language",
+    "b": "Sequential Query Language",
+    "c": "Simple Query Language",
+    "d": "Structured Quick Language",
+    "e": "System Query Language",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 12,
+    "questionTitle": "What is the file extension for Python scripts?",
+    "a": ".pyth",
+    "b": ".pt",
+    "c": ".pyt",
+    "d": ".py",
+    "e": ".pyc",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 13,
+    "questionTitle": "Which of the following is a front-end framework?",
+    "a": "Node.js",
+    "b": "Django",
+    "c": "Angular",
+    "d": "Flask",
+    "e": "Ruby on Rails",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 14,
+    "questionTitle": "What does IDE stand for in programming?",
+    "a": "Integrated Development Environment",
+    "b": "Internal Development Engine",
+    "c": "Integrated Deployment Environment",
+    "d": "Internal Debugging Environment",
+    "e": "Integrated Design Environment",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 15,
+    "questionTitle": "Which of the following is not a relational database?",
+    "a": "MySQL",
+    "b": "PostgreSQL",
+    "c": "MongoDB",
+    "d": "SQLite",
+    "e": "Oracle",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 16,
+    "questionTitle": "Which of the following is used to style HTML documents?",
+    "a": "CSS",
+    "b": "JavaScript",
+    "c": "PHP",
+    "d": "SQL",
+    "e": "Python",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 17,
+    "questionTitle": "Which of the following is a NoSQL database?",
+    "a": "Oracle",
+    "b": "SQL Server",
+    "c": "Cassandra",
+    "d": "PostgreSQL",
+    "e": "SQLite",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 18,
+    "questionTitle": "What does JSON stand for?",
+    "a": "JavaScript Object Notation",
+    "b": "Java Serialized Object Notation",
+    "c": "JavaScript Online Notation",
+    "d": "Java Simple Object Notation",
+    "e": "JavaScript Object Network",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 19,
+    "questionTitle": "What is the main difference between == and === in JavaScript?",
+    "a": "=== checks for both value and type equality, while == only checks for value equality",
+    "b": "== checks for both value and type equality, while === only checks for value equality",
+    "c": "== is used for comparison, === is used for assignment",
+    "d": "There is no difference",
+    "e": "== is used for strings, === is used for numbers",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 20,
+    "questionTitle": "Which of the following is not a Python data structure?",
+    "a": "List",
+    "b": "Dictionary",
+    "c": "Tuple",
+    "d": "Array",
+    "e": "Set",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 21,
+    "questionTitle": "Which of the following operators is used to access members of a structure in C?",
+    "a": ".",
+    "b": "->",
+    "c": "::",
+    "d": "&&",
+    "e": "*",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 22,
+    "questionTitle": "What is an API?",
+    "a": "Application Programming Interface",
+    "b": "Automated Programming Interface",
+    "c": "Advanced Programming Interface",
+    "d": "Application Protocol Interface",
+    "e": "Automated Protocol Interface",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 23,
+    "questionTitle": "What is the result of the expression 5 + 2 * 3?",
+    "a": "21",
+    "b": "15",
+    "c": "11",
+    "d": "13",
+    "e": "16",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 24,
+    "questionTitle": "Which of the following is a key-value store?",
+    "a": "Redis",
+    "b": "MySQL",
+    "c": "PostgreSQL",
+    "d": "SQLite",
+    "e": "Oracle",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 25,
+    "questionTitle": "Which of the following is not a component of the MEAN stack?",
+    "a": "MongoDB",
+    "b": "Express.js",
+    "c": "Angular",
+    "d": "Node.js",
+    "e": "MySQL",
+    "correctAnswer": "e"
+  },
+  {
+    "id": 26,
+    "questionTitle": "Which of the following is a version control system?",
+    "a": "Git",
+    "b": "JIRA",
+    "c": "Jenkins",
+    "d": "Docker",
+    "e": "Kubernetes",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 27,
+    "questionTitle": "Which language is primarily used for statistical computing and graphics?",
+    "a": "Python",
+    "b": "Java",
+    "c": "R",
+    "d": "C++",
+    "e": "Swift",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 28,
+    "questionTitle": "What is the main purpose of CSS in web development?",
+    "a": "To structure web content",
+    "b": "To add interactivity to a web page",
+    "c": "To style the visual presentation of web pages",
+    "d": "To manage database content",
+    "e": "To configure server settings",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 29,
+    "questionTitle": "Which method is used to find the length of a string in JavaScript?",
+    "a": "size()",
+    "b": "length()",
+    "c": "strlen()",
+    "d": "length",
+    "e": "size",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 30,
+    "questionTitle": "Which company developed the programming language Swift?",
+    "a": "Google",
+    "b": "Microsoft",
+    "c": "Apple",
+    "d": "IBM",
+    "e": "Oracle",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 31,
+    "questionTitle": "In SQL, which clause is used to filter the result set?",
+    "a": "SELECT",
+    "b": "WHERE",
+    "c": "ORDER BY",
+    "d": "GROUP BY",
+    "e": "HAVING",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 32,
+    "questionTitle": "Which of the following is a dynamically typed language?",
+    "a": "C",
+    "b": "Java",
+    "c": "C++",
+    "d": "Python",
+    "e": "Go",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 33,
+    "questionTitle": "Which of the following is used to manage dependencies in Java?",
+    "a": "npm",
+    "b": "pip",
+    "c": "Maven",
+    "d": "Composer",
+    "e": "Bundler",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 34,
+    "questionTitle": "What does CSS stand for?",
+    "a": "Cascading Style Sheets",
+    "b": "Computer Style Sheets",
+    "c": "Creative Style Sheets",
+    "d": "Colorful Style Sheets",
+    "e": "Compact Style Sheets",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 35,
+    "questionTitle": "Which keyword is used to declare a variable in JavaScript?",
+    "a": "int",
+    "b": "var",
+    "c": "float",
+    "d": "string",
+    "e": "declare",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 36,
+    "questionTitle": "What is the purpose of the 'return' statement in a function?",
+    "a": "To end the execution of a function",
+    "b": "To return a value to the caller of the function",
+    "c": "To call another function",
+    "d": "To declare a variable",
+    "e": "To iterate through a loop",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 37,
+    "questionTitle": "Which of the following is an example of a markup language?",
+    "a": "HTML",
+    "b": "Python",
+    "c": "Java",
+    "d": "C++",
+    "e": "PHP",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 38,
+    "questionTitle": "Which command is used to initialize a new Git repository?",
+    "a": "git init",
+    "b": "git start",
+    "c": "git begin",
+    "d": "git new",
+    "e": "git create",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 39,
+    "questionTitle": "What is the extension of a Java bytecode file?",
+    "a": ".java",
+    "b": ".class",
+    "c": ".byte",
+    "d": ".jbc",
+    "e": ".javac",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 40,
+    "questionTitle": "Which of the following is not a valid variable name in Python?",
+    "a": "my_var",
+    "b": "_myvar",
+    "c": "2myvar",
+    "d": "myVar2",
+    "e": "myvar",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 41,
+    "questionTitle": "Which protocol is used to secure HTTP connections?",
+    "a": "FTP",
+    "b": "SMTP",
+    "c": "SSL/TLS",
+    "d": "TCP",
+    "e": "UDP",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 42,
+    "questionTitle": "What is the time complexity of binary search?",
+    "a": "O(n)",
+    "b": "O(n^2)",
+    "c": "O(log n)",
+    "d": "O(n log n)",
+    "e": "O(1)",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 43,
+    "questionTitle": "In Python, how do you create a function?",
+    "a": "function myFunction():",
+    "b": "def myFunction():",
+    "c": "create myFunction():",
+    "d": "define myFunction():",
+    "e": "lambda myFunction():",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 44,
+    "questionTitle": "Which of the following is not an HTTP method?",
+    "a": "GET",
+    "b": "POST",
+    "c": "FETCH",
+    "d": "DELETE",
+    "e": "PUT",
+    "correctAnswer": "c"
+  },
+  {
+    "id": 45,
+    "questionTitle": "What is the use of the 'break' statement in loops?",
+    "a": "To skip the current iteration",
+    "b": "To exit the loop immediately",
+    "c": "To continue to the next iteration",
+    "d": "To restart the loop",
+    "e": "To exit the current function",
+    "correctAnswer": "b"
+  },
+  {
+    "id": 46,
+    "questionTitle": "Which of the following is a package manager for Node.js?",
+    "a": "npm",
+    "b": "pip",
+    "c": "composer",
+    "d": "bundler",
+    "e": "gradle",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 47,
+    "questionTitle": "Which operator is used to concatenate strings in Python?",
+    "a": "+",
+    "b": "&",
+    "c": "*",
+    "d": "&&",
+    "e": "^",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 48,
+    "questionTitle": "What does XML stand for?",
+    "a": "eXtensible Markup Language",
+    "b": "eXecutable Multiple Language",
+    "c": "eXtra Multi-Program Language",
+    "d": "eXamine Multiple Language",
+    "e": "eXtended Markup Language",
+    "correctAnswer": "a"
+  },
+  {
+    "id": 49,
+    "questionTitle": "Which of the following is not a primitive data type in Java?",
+    "a": "int",
+    "b": "boolean",
+    "c": "char",
+    "d": "String",
+    "e": "double",
+    "correctAnswer": "d"
+  },
+  {
+    "id": 50,
+    "questionTitle": "Which of the following is used to handle exceptions in Java?",
+    "a": "catch",
+    "b": "try",
+    "c": "throw",
+    "d": "All of the above",
+    "e": "None of the above",
+    "correctAnswer": "d"
+  }
+]

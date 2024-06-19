@@ -1,0 +1,501 @@
+[
+    {
+        "id": 1,
+        "questionTitle": "What is the main objective of the game 'Minecraft'?",
+        "a": "To race cars",
+        "b": "To defeat enemies in a dungeon",
+        "c": "To build and explore virtual worlds",
+        "d": "To solve puzzles",
+        "e": "To play soccer",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 2,
+        "questionTitle": "Which game features characters named Mario and Luigi?",
+        "a": "The Legend of Zelda",
+        "b": "Donkey Kong",
+        "c": "Super Mario Bros.",
+        "d": "Metroid",
+        "e": "Pac-Man",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 3,
+        "questionTitle": "What type of game is 'Fortnite'?",
+        "a": "Racing",
+        "b": "Puzzle",
+        "c": "Battle Royale",
+        "d": "Sports",
+        "e": "Simulation",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 4,
+        "questionTitle": "Which game is known for its 'Battle Royale' mode?",
+        "a": "Overwatch",
+        "b": "Fortnite",
+        "c": "League of Legends",
+        "d": "World of Warcraft",
+        "e": "The Sims",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 5,
+        "questionTitle": "In which game would you find the character 'Link'?",
+        "a": "Final Fantasy",
+        "b": "Super Mario Bros.",
+        "c": "The Legend of Zelda",
+        "d": "Metroid",
+        "e": "Mega Man",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 6,
+        "questionTitle": "What is the primary objective in 'Pac-Man'?",
+        "a": "To collect coins",
+        "b": "To shoot enemies",
+        "c": "To eat all the pellets in the maze",
+        "d": "To rescue the princess",
+        "e": "To solve puzzles",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 7,
+        "questionTitle": "Which game series is known for its stealth mechanics and the character Solid Snake?",
+        "a": "Splinter Cell",
+        "b": "Hitman",
+        "c": "Metal Gear Solid",
+        "d": "Assassin's Creed",
+        "e": "Dishonored",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 8,
+        "questionTitle": "What is the name of the main antagonist in the 'Halo' series?",
+        "a": "The Joker",
+        "b": "Dr. Robotnik",
+        "c": "Ganondorf",
+        "d": "The Covenant",
+        "e": "Bowser",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 9,
+        "questionTitle": "Which game involves building defenses to protect against waves of zombie attacks?",
+        "a": "Left 4 Dead",
+        "b": "Resident Evil",
+        "c": "Plants vs. Zombies",
+        "d": "The Last of Us",
+        "e": "Dead Rising",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 10,
+        "questionTitle": "In 'Overwatch', which character is known for their ice abilities?",
+        "a": "Tracer",
+        "b": "Genji",
+        "c": "Mei",
+        "d": "Reaper",
+        "e": "Hanzo",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 11,
+        "questionTitle": "Which game is set in the fictional land of Hyrule?",
+        "a": "Final Fantasy",
+        "b": "The Legend of Zelda",
+        "c": "Dragon Quest",
+        "d": "Skyrim",
+        "e": "Witcher",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 12,
+        "questionTitle": "What is the main goal in the game 'Among Us'?",
+        "a": "To build a city",
+        "b": "To complete tasks and identify impostors",
+        "c": "To win a race",
+        "d": "To explore a dungeon",
+        "e": "To solve puzzles",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 13,
+        "questionTitle": "In 'Call of Duty', what type of game mode is 'Zombies'?",
+        "a": "Battle Royale",
+        "b": "Multiplayer Deathmatch",
+        "c": "Survival Co-op",
+        "d": "Racing",
+        "e": "Puzzle",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 14,
+        "questionTitle": "Which game features the character Kratos?",
+        "a": "Assassin's Creed",
+        "b": "God of War",
+        "c": "Devil May Cry",
+        "d": "Dark Souls",
+        "e": "Ninja Gaiden",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 15,
+        "questionTitle": "What is the main objective in 'Tetris'?",
+        "a": "To build cities",
+        "b": "To complete missions",
+        "c": "To arrange falling blocks to clear lines",
+        "d": "To race cars",
+        "e": "To solve puzzles",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 16,
+        "questionTitle": "Which game series is known for the character 'Master Chief'?",
+        "a": "Gears of War",
+        "b": "Call of Duty",
+        "c": "Halo",
+        "d": "Mass Effect",
+        "e": "Destiny",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 17,
+        "questionTitle": "Which game series features a post-apocalyptic wasteland known as the 'Capital Wasteland'?",
+        "a": "The Elder Scrolls",
+        "b": "Metro",
+        "c": "Fallout",
+        "d": "Borderlands",
+        "e": "Mad Max",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 18,
+        "questionTitle": "In which game would you find the character 'Lara Croft'?",
+        "a": "Uncharted",
+        "b": "Assassin's Creed",
+        "c": "Tomb Raider",
+        "d": "Prince of Persia",
+        "e": "Far Cry",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 19,
+        "questionTitle": "Which game is known for its realistic football simulation?",
+        "a": "NBA 2K",
+        "b": "FIFA",
+        "c": "Madden NFL",
+        "d": "PES",
+        "e": "NHL",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 20,
+        "questionTitle": "What is the primary objective in 'The Sims'?",
+        "a": "To solve puzzles",
+        "b": "To build and manage a virtual household",
+        "c": "To win a race",
+        "d": "To explore dungeons",
+        "e": "To fight enemies",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 21,
+        "questionTitle": "Which game is a battle arena featuring champions with unique abilities?",
+        "a": "World of Warcraft",
+        "b": "Overwatch",
+        "c": "League of Legends",
+        "d": "Diablo",
+        "e": "StarCraft",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 22,
+        "questionTitle": "In 'Minecraft', what is the name of the dimension with the Ender Dragon?",
+        "a": "The Nether",
+        "b": "The Overworld",
+        "c": "The End",
+        "d": "The Twilight Forest",
+        "e": "The Abyss",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 23,
+        "questionTitle": "Which game series features a character named 'Nathan Drake'?",
+        "a": "Tomb Raider",
+        "b": "Assassin's Creed",
+        "c": "Uncharted",
+        "d": "Far Cry",
+        "e": "Hitman",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 24,
+        "questionTitle": "What type of game is 'Civilization VI'?",
+        "a": "First-person shooter",
+        "b": "Role-playing game",
+        "c": "Real-time strategy",
+        "d": "Turn-based strategy",
+        "e": "Simulation",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 25,
+        "questionTitle": "In the game 'Overwatch', what role does the character Mercy primarily fulfill?",
+        "a": "Tank",
+        "b": "Damage",
+        "c": "Support",
+        "d": "Defense",
+        "e": "Healer",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 26,
+        "questionTitle": "Which game features the character Geralt of Rivia?",
+        "a": "The Elder Scrolls",
+        "b": "The Witcher",
+        "c": "Dark Souls",
+        "d": "Dragon Age",
+        "e": "Final Fantasy",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 27,
+        "questionTitle": "In which game do players use 'Pikachu' as a character?",
+        "a": "Digimon",
+        "b": "Monster Hunter",
+        "c": "Yu-Gi-Oh!",
+        "d": "Pokémon",
+        "e": "Final Fantasy",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 28,
+        "questionTitle": "What is the main goal in 'Rocket League'?",
+        "a": "To shoot enemies",
+        "b": "To score goals in a soccer-like game using cars",
+        "c": "To build a city",
+        "d": "To solve puzzles",
+        "e": "To explore dungeons",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 29,
+        "questionTitle": "Which game series is known for its open-world exploration and parkour mechanics?",
+        "a": "Far Cry",
+        "b": "Just Cause",
+        "c": "Assassin's Creed",
+        "d": "Uncharted",
+        "e": "Tomb Raider",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 30,
+        "questionTitle": "Which game features a city called 'Rapture'?",
+        "a": "Fallout",
+        "b": "BioShock",
+        "c": "Half-Life",
+        "d": "Deus Ex",
+        "e": "System Shock",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 31,
+        "questionTitle": "Which game is known for the phrase 'The cake is a lie'?",
+        "a": "Portal",
+        "b": "Half-Life",
+        "c": "BioShock",
+        "d": "Mass Effect",
+        "e": "Dishonored",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 32,
+        "questionTitle": "What is the name of the protagonist in 'The Last of Us'?",
+        "a": "Ethan",
+        "b": "Jack",
+        "c": "Joel",
+        "d": "Nathan",
+        "e": "John",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 33,
+        "questionTitle": "Which game is set in the fictional world of Azeroth?",
+        "a": "Diablo",
+        "b": "StarCraft",
+        "c": "The Witcher",
+        "d": "World of Warcraft",
+        "e": "Elder Scrolls",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 34,
+        "questionTitle": "In which game would you use a 'Buster Sword'?",
+        "a": "Dark Souls",
+        "b": "Final Fantasy VII",
+        "c": "Monster Hunter",
+        "d": "Bloodborne",
+        "e": "Devil May Cry",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 35,
+        "questionTitle": "Which game series involves catching and training creatures called 'Pokémon'?",
+        "a": "Yu-Gi-Oh!",
+        "b": "Digimon",
+        "c": "Monster Rancher",
+        "d": "Pokémon",
+        "e": "Dragon Quest Monsters",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 36,
+        "questionTitle": "In 'The Legend of Zelda: Breath of the Wild', who is the main antagonist?",
+        "a": "Ganon",
+        "b": "Vaati",
+        "c": "Zant",
+        "d": "Ganondorf",
+        "e": "Majora",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 37,
+        "questionTitle": "Which game features a female protagonist named Aloy?",
+        "a": "The Last of Us",
+        "b": "Tomb Raider",
+        "c": "Horizon Zero Dawn",
+        "d": "Uncharted",
+        "e": "Mirror's Edge",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 38,
+        "questionTitle": "Which game allows players to build and manage a theme park?",
+        "a": "Zoo Tycoon",
+        "b": "The Sims",
+        "c": "SimCity",
+        "d": "RollerCoaster Tycoon",
+        "e": "Minecraft",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 39,
+        "questionTitle": "In 'Fortnite', what is the name of the floating island players land on?",
+        "a": "Survivor Island",
+        "b": "Sky Island",
+        "c": "Battle Island",
+        "d": "Fort Island",
+        "e": "The Island",
+        "correctAnswer": "e"
+    },
+    {
+        "id": 40,
+        "questionTitle": "What type of game is 'Stardew Valley'?",
+        "a": "First-person shooter",
+        "b": "Role-playing game",
+        "c": "Farming simulation",
+        "d": "Racing",
+        "e": "Puzzle",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 41,
+        "questionTitle": "Which game series is known for its post-apocalyptic setting and Vaults?",
+        "a": "Metro",
+        "b": "Fallout",
+        "c": "Borderlands",
+        "d": "The Last of Us",
+        "e": "Mad Max",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 42,
+        "questionTitle": "In which game do players assume the role of a 'Guardian' protecting the Last City?",
+        "a": "Destiny",
+        "b": "Warframe",
+        "c": "Overwatch",
+        "d": "Mass Effect",
+        "e": "Halo",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 43,
+        "questionTitle": "Which game features the 'Creeper' as an enemy?",
+        "a": "Terraria",
+        "b": "Fortnite",
+        "c": "Minecraft",
+        "d": "Roblox",
+        "e": "Rust",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 44,
+        "questionTitle": "What is the primary goal in 'The Sims'?",
+        "a": "To explore dungeons",
+        "b": "To build and manage a virtual household",
+        "c": "To race cars",
+        "d": "To solve puzzles",
+        "e": "To fight enemies",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 45,
+        "questionTitle": "Which game is known for its realistic depiction of football (soccer)?",
+        "a": "NBA 2K",
+        "b": "FIFA",
+        "c": "Madden NFL",
+        "d": "PES",
+        "e": "NHL",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 46,
+        "questionTitle": "Which game features a haunted mansion and a character named Luigi?",
+        "a": "Super Mario Bros.",
+        "b": "The Legend of Zelda",
+        "c": "Luigi's Mansion",
+        "d": "Metroid",
+        "e": "Kirby",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 47,
+        "questionTitle": "What is the main activity in 'Animal Crossing: New Horizons'?",
+        "a": "Solving puzzles",
+        "b": "Building and customizing a village",
+        "c": "Racing cars",
+        "d": "Fighting enemies",
+        "e": "Exploring dungeons",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 48,
+        "questionTitle": "In which game would you find the 'Great Deku Tree'?",
+        "a": "Final Fantasy",
+        "b": "The Legend of Zelda",
+        "c": "Dragon Quest",
+        "d": "Skyrim",
+        "e": "Witcher",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 49,
+        "questionTitle": "Which game is set in a dystopian underwater city?",
+        "a": "Fallout",
+        "b": "BioShock",
+        "c": "Half-Life",
+        "d": "Deus Ex",
+        "e": "System Shock",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 50,
+        "questionTitle": "Which game series features the 'Plumbob' as its icon?",
+        "a": "SimCity",
+        "b": "The Sims",
+        "c": "RollerCoaster Tycoon",
+        "d": "Minecraft",
+        "correctAnswer": "b"
+    }
+]

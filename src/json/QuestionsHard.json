@@ -1,0 +1,762 @@
+[
+    {
+        "id": 1,
+        "questionTitle": "What does the acronym 'CPU' stand for?",
+        "a": "Central Process Unit",
+        "b": "Central Processing Unit",
+        "c": "Control Processing Unit",
+        "d": "Computer Personal Unit",
+        "e": "Central Peripheral Unit",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 2,
+        "questionTitle": "Which component is known as the brain of the computer?",
+        "a": "RAM",
+        "b": "CPU",
+        "c": "Hard Drive",
+        "d": "Motherboard",
+        "e": "GPU",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 3,
+        "questionTitle": "What type of memory is used to store the BIOS settings?",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "Flash Memory",
+        "d": "SSD",
+        "e": "Cache",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 4,
+        "questionTitle": "Which port is typically used to connect a monitor to a computer?",
+        "a": "USB",
+        "b": "HDMI",
+        "c": "Ethernet",
+        "d": "Audio Jack",
+        "e": "Power Connector",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 5,
+        "questionTitle": "What is the primary function of a motherboard?",
+        "a": "Store data permanently",
+        "b": "Serve as the central printed circuit board",
+        "c": "Manage power supply",
+        "d": "Display graphics",
+        "e": "Output sound",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 6,
+        "questionTitle": "What does 'RAM' stand for?",
+        "a": "Readily Available Memory",
+        "b": "Random Access Memory",
+        "c": "Rapid Access Memory",
+        "d": "Read Access Memory",
+        "e": "Run Access Memory",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 7,
+        "questionTitle": "Which type of storage is typically faster?",
+        "a": "HDD",
+        "b": "SSD",
+        "c": "CD-ROM",
+        "d": "DVD",
+        "e": "Floppy Disk",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 8,
+        "questionTitle": "What component is responsible for rendering images on the screen?",
+        "a": "CPU",
+        "b": "RAM",
+        "c": "Hard Drive",
+        "d": "GPU",
+        "e": "Motherboard",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 9,
+        "questionTitle": "What does the acronym 'GPU' stand for?",
+        "a": "General Processing Unit",
+        "b": "Graphical Processing Unit",
+        "c": "Graphics Processing Unit",
+        "d": "General Purpose Unit",
+        "e": "Graphical Performance Unit",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 10,
+        "questionTitle": "Which component is used to cool the CPU?",
+        "a": "Heatsink",
+        "b": "Fan",
+        "c": "Water Cooling",
+        "d": "All of the above",
+        "e": "None of the above",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 11,
+        "questionTitle": "What does the acronym 'BIOS' stand for?",
+        "a": "Basic Input Output System",
+        "b": "Binary Input Output System",
+        "c": "Basic Integrated Operating System",
+        "d": "Binary Integrated Operating System",
+        "e": "Basic Interface Operating System",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 12,
+        "questionTitle": "What type of connector is commonly used for network cables?",
+        "a": "HDMI",
+        "b": "USB",
+        "c": "Ethernet",
+        "d": "VGA",
+        "e": "Audio Jack",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 13,
+        "questionTitle": "Which device is used to convert digital signals to analog signals for audio output?",
+        "a": "CPU",
+        "b": "GPU",
+        "c": "DAC",
+        "d": "ADC",
+        "e": "RAM",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 14,
+        "questionTitle": "What is the primary function of a power supply unit (PSU)?",
+        "a": "Store data",
+        "b": "Process data",
+        "c": "Convert electrical power",
+        "d": "Display graphics",
+        "e": "Control peripherals",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 15,
+        "questionTitle": "What does the acronym 'HDD' stand for?",
+        "a": "Hard Digital Drive",
+        "b": "High Density Drive",
+        "c": "Hard Disk Drive",
+        "d": "High Definition Drive",
+        "e": "High Durability Drive",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 16,
+        "questionTitle": "Which type of connector is typically used for connecting external drives?",
+        "a": "HDMI",
+        "b": "VGA",
+        "c": "USB",
+        "d": "Ethernet",
+        "e": "Audio Jack",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 17,
+        "questionTitle": "What is the primary function of an SSD?",
+        "a": "Store data permanently",
+        "b": "Process data",
+        "c": "Cool the CPU",
+        "d": "Render graphics",
+        "e": "Manage network connections",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 18,
+        "questionTitle": "What component is primarily responsible for the performance of video games?",
+        "a": "CPU",
+        "b": "RAM",
+        "c": "GPU",
+        "d": "HDD",
+        "e": "PSU",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 19,
+        "questionTitle": "What does 'HDMI' stand for?",
+        "a": "High Digital Multimedia Interface",
+        "b": "High Definition Multimedia Interface",
+        "c": "High Density Multimedia Interface",
+        "d": "High Definition Micro Interface",
+        "e": "High Digital Micro Interface",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 20,
+        "questionTitle": "Which component typically houses the CPU, RAM, and expansion cards?",
+        "a": "Hard Drive",
+        "b": "Motherboard",
+        "c": "Power Supply",
+        "d": "Cooling System",
+        "e": "Optical Drive",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 21,
+        "questionTitle": "What type of expansion slot is commonly used for graphics cards?",
+        "a": "PCIe",
+        "b": "AGP",
+        "c": "ISA",
+        "d": "PCI",
+        "e": "USB",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 22,
+        "questionTitle": "Which of the following is a volatile type of memory?",
+        "a": "HDD",
+        "b": "SSD",
+        "c": "RAM",
+        "d": "CD-ROM",
+        "e": "Flash Drive",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 23,
+        "questionTitle": "Which component provides the connection between the computer and the internet?",
+        "a": "CPU",
+        "b": "GPU",
+        "c": "Network Interface Card (NIC)",
+        "d": "Sound Card",
+        "e": "Power Supply",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 24,
+        "questionTitle": "What type of device is a keyboard?",
+        "a": "Output Device",
+        "b": "Input Device",
+        "c": "Storage Device",
+        "d": "Processing Device",
+        "e": "Network Device",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 25,
+        "questionTitle": "What does the acronym 'USB' stand for?",
+        "a": "Universal Storage Bus",
+        "b": "Universal Serial Bus",
+        "c": "Universal System Bus",
+        "d": "Universal Serial Bond",
+        "e": "Universal Standard Bus",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 26,
+        "questionTitle": "Which component in a computer is responsible for executing instructions?",
+        "a": "RAM",
+        "b": "CPU",
+        "c": "HDD",
+        "d": "GPU",
+        "e": "Motherboard",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 1,
+        "questionTitle": "What does the acronym 'CPU' stand for?",
+        "a": "Central Process Unit",
+        "b": "Central Processing Unit",
+        "c": "Control Processing Unit",
+        "d": "Computer Personal Unit",
+        "e": "Central Peripheral Unit",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 2,
+        "questionTitle": "Which component is known as the brain of the computer?",
+        "a": "RAM",
+        "b": "CPU",
+        "c": "Hard Drive",
+        "d": "Motherboard",
+        "e": "GPU",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 3,
+        "questionTitle": "What type of memory is used to store the BIOS settings?",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "Flash Memory",
+        "d": "SSD",
+        "e": "Cache",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 4,
+        "questionTitle": "Which port is typically used to connect a monitor to a computer?",
+        "a": "USB",
+        "b": "HDMI",
+        "c": "Ethernet",
+        "d": "Audio Jack",
+        "e": "Power Connector",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 5,
+        "questionTitle": "What is the primary function of a motherboard?",
+        "a": "Store data permanently",
+        "b": "Serve as the central printed circuit board",
+        "c": "Manage power supply",
+        "d": "Display graphics",
+        "e": "Output sound",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 6,
+        "questionTitle": "What does 'RAM' stand for?",
+        "a": "Readily Available Memory",
+        "b": "Random Access Memory",
+        "c": "Rapid Access Memory",
+        "d": "Read Access Memory",
+        "e": "Run Access Memory",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 7,
+        "questionTitle": "Which type of storage is typically faster?",
+        "a": "HDD",
+        "b": "SSD",
+        "c": "CD-ROM",
+        "d": "DVD",
+        "e": "Floppy Disk",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 8,
+        "questionTitle": "What component is responsible for rendering images on the screen?",
+        "a": "CPU",
+        "b": "RAM",
+        "c": "Hard Drive",
+        "d": "GPU",
+        "e": "Motherboard",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 9,
+        "questionTitle": "What does the acronym 'GPU' stand for?",
+        "a": "General Processing Unit",
+        "b": "Graphical Processing Unit",
+        "c": "Graphics Processing Unit",
+        "d": "General Purpose Unit",
+        "e": "Graphical Performance Unit",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 10,
+        "questionTitle": "Which component is used to cool the CPU?",
+        "a": "Heatsink",
+        "b": "Fan",
+        "c": "Water Cooling",
+        "d": "All of the above",
+        "e": "None of the above",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 11,
+        "questionTitle": "What does the acronym 'BIOS' stand for?",
+        "a": "Basic Input Output System",
+        "b": "Binary Input Output System",
+        "c": "Basic Integrated Operating System",
+        "d": "Binary Integrated Operating System",
+        "e": "Basic Interface Operating System",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 12,
+        "questionTitle": "What type of connector is commonly used for network cables?",
+        "a": "HDMI",
+        "b": "USB",
+        "c": "Ethernet",
+        "d": "VGA",
+        "e": "Audio Jack",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 13,
+        "questionTitle": "Which device is used to convert digital signals to analog signals for audio output?",
+        "a": "CPU",
+        "b": "GPU",
+        "c": "DAC",
+        "d": "ADC",
+        "e": "RAM",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 14,
+        "questionTitle": "What is the primary function of a power supply unit (PSU)?",
+        "a": "Store data",
+        "b": "Process data",
+        "c": "Convert electrical power",
+        "d": "Display graphics",
+        "e": "Control peripherals",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 15,
+        "questionTitle": "What does the acronym 'HDD' stand for?",
+        "a": "Hard Digital Drive",
+        "b": "High Density Drive",
+        "c": "Hard Disk Drive",
+        "d": "High Definition Drive",
+        "e": "High Durability Drive",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 16,
+        "questionTitle": "Which type of connector is typically used for connecting external drives?",
+        "a": "HDMI",
+        "b": "VGA",
+        "c": "USB",
+        "d": "Ethernet",
+        "e": "Audio Jack",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 17,
+        "questionTitle": "What is the primary function of an SSD?",
+        "a": "Store data permanently",
+        "b": "Process data",
+        "c": "Cool the CPU",
+        "d": "Render graphics",
+        "e": "Manage network connections",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 18,
+        "questionTitle": "What component is primarily responsible for the performance of video games?",
+        "a": "CPU",
+        "b": "RAM",
+        "c": "GPU",
+        "d": "HDD",
+        "e": "PSU",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 19,
+        "questionTitle": "What does 'HDMI' stand for?",
+        "a": "High Digital Multimedia Interface",
+        "b": "High Definition Multimedia Interface",
+        "c": "High Density Multimedia Interface",
+        "d": "High Definition Micro Interface",
+        "e": "High Digital Micro Interface",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 20,
+        "questionTitle": "Which component typically houses the CPU, RAM, and expansion cards?",
+        "a": "Hard Drive",
+        "b": "Motherboard",
+        "c": "Power Supply",
+        "d": "Cooling System",
+        "e": "Optical Drive",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 21,
+        "questionTitle": "What type of expansion slot is commonly used for graphics cards?",
+        "a": "PCIe",
+        "b": "AGP",
+        "c": "ISA",
+        "d": "PCI",
+        "e": "USB",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 22,
+        "questionTitle": "Which of the following is a volatile type of memory?",
+        "a": "HDD",
+        "b": "SSD",
+        "c": "RAM",
+        "d": "CD-ROM",
+        "e": "Flash Drive",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 23,
+        "questionTitle": "Which component provides the connection between the computer and the internet?",
+        "a": "CPU",
+        "b": "GPU",
+        "c": "Network Interface Card (NIC)",
+        "d": "Sound Card",
+        "e": "Power Supply",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 24,
+        "questionTitle": "What type of device is a keyboard?",
+        "a": "Output Device",
+        "b": "Input Device",
+        "c": "Storage Device",
+        "d": "Processing Device",
+        "e": "Network Device",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 25,
+        "questionTitle": "What does the acronym 'USB' stand for?",
+        "a": "Universal Storage Bus",
+        "b": "Universal Serial Bus",
+        "c": "Universal System Bus",
+        "d": "Universal Serial Bond",
+        "e": "Universal Standard Bus",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 26,
+        "questionTitle": "Which component in a computer is responsible for executing instructions?",
+        "a": "RAM",
+        "b": "CPU",
+        "c": "HDD",
+        "d": "GPU",
+        "e": "Motherboard",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 27,
+        "questionTitle": "What type of connector is commonly used to connect a mouse to a computer?",
+        "a": "HDMI",
+        "b": "VGA",
+        "c": "USB",
+        "d": "Ethernet",
+        "e": "Audio Jack",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 28,
+        "questionTitle": "What is the purpose of a heat sink?",
+        "a": "Store data",
+        "b": "Process data",
+        "c": "Transfer heat away from components",
+        "d": "Display graphics",
+        "e": "Convert electrical power",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 29,
+        "questionTitle": "Which type of memory is non-volatile and can be electrically erased and reprogrammed?",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "Cache",
+        "d": "Flash Memory",
+        "e": "Register",
+        "correctAnswer": "d"
+    },
+    {
+        "id": 30,
+        "questionTitle": "What does the acronym 'DIMM' stand for?",
+        "a": "Dual Inline Memory Module",
+        "b": "Dynamic Inline Memory Module",
+        "c": "Dual Integrated Memory Module",
+        "d": "Dynamic Integrated Memory Module",
+        "e": "Dual Internal Memory Module",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 31,
+        "questionTitle": "Which of the following is an example of optical storage?",
+        "a": "HDD",
+        "b": "SSD",
+        "c": "CD-ROM",
+        "d": "RAM",
+        "e": "Flash Drive",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 32,
+        "questionTitle": "What is the main advantage of using an SSD over an HDD?",
+        "a": "Higher capacity",
+        "b": "Faster data access speeds",
+        "c": "Lower cost",
+        "d": "Longer lifespan",
+        "e": "Greater durability",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 33,
+        "questionTitle": "What does the acronym 'SATA' stand for?",
+        "a": "Serial Advanced Technology Attachment",
+        "b": "Serial Attached Technology Adapter",
+        "c": "Serial Advanced Transport Adapter",
+        "d": "Serial Attached Transport Adapter",
+        "e": "Serial Advanced Technology Adapter",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 34,
+        "questionTitle": "Which component is primarily responsible for managing the data traffic between the CPU, memory, and peripherals?",
+        "a": "Northbridge",
+        "b": "Southbridge",
+        "c": "BIOS",
+        "d": "CMOS",
+        "e": "NIC",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 35,
+        "questionTitle": "What is the main function of a sound card?",
+        "a": "Render graphics",
+        "b": "Store data",
+        "c": "Convert digital audio to analog audio",
+        "d": "Manage power supply",
+        "e": "Process data",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 36,
+        "questionTitle": "What type of memory is typically used for cache?",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "Flash Memory",
+        "d": "DRAM",
+        "e": "SRAM",
+        "correctAnswer": "e"
+    },
+    {
+        "id": 37,
+        "questionTitle": "Which component is essential for connecting multiple network devices in a local area network (LAN)?",
+        "a": "Router",
+        "b": "Switch",
+        "c": "Modem",
+        "d": "Access Point",
+        "e": "Firewall",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 38,
+        "questionTitle": "Which port is commonly used to connect a printer to a computer?",
+        "a": "HDMI",
+        "b": "VGA",
+        "c": "USB",
+        "d": "Ethernet",
+        "e": "Audio Jack",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 39,
+        "questionTitle": "What is the function of a chipset in a computer?",
+        "a": "Store data",
+        "b": "Render graphics",
+        "c": "Control data flow between processor, memory, and peripherals",
+        "d": "Convert electrical power",
+        "e": "Cool the CPU",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 40,
+        "questionTitle": "What does the acronym 'PCI' stand for?",
+        "a": "Peripheral Component Interconnect",
+        "b": "Processor Component Interface",
+        "c": "Peripheral Computer Interface",
+        "d": "Processor Control Interface",
+        "e": "Peripheral Control Interconnect",
+        "correctAnswer": "a"
+    },
+    {
+        "id": 41,
+        "questionTitle": "What type of storage uses magnetic disks to store data?",
+        "a": "SSD",
+        "b": "HDD",
+        "c": "CD-ROM",
+        "d": "Flash Drive",
+        "e": "SD Card",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 42,
+        "questionTitle": "What is the main purpose of a UPS (Uninterruptible Power Supply)?",
+        "a": "Store data",
+        "b": "Render graphics",
+        "c": "Provide backup power during outages",
+        "d": "Convert electrical power",
+        "e": "Manage network connections",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 43,
+        "questionTitle": "Which type of memory is used for temporary storage while the computer is running?",
+        "a": "HDD",
+        "b": "SSD",
+        "c": "RAM",
+        "d": "ROM",
+        "e": "Flash Drive",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 44,
+        "questionTitle": "What does the acronym 'NIC' stand for?",
+        "a": "Network Internet Card",
+        "b": "Network Interface Card",
+        "c": "Network Integrated Circuit",
+        "d": "Network Internal Card",
+        "e": "Network Input Card",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 45,
+        "questionTitle": "Which of the following is a common input device?",
+        "a": "Monitor",
+        "b": "Printer",
+        "c": "Mouse",
+        "d": "Speakers",
+        "e": "Projector",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 46,
+        "questionTitle": "What is the function of a router?",
+        "a": "Store data",
+        "b": "Render graphics",
+        "c": "Connect different networks and direct data traffic",
+        "d": "Manage power supply",
+        "e": "Convert electrical power",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 47,
+        "questionTitle": "What type of memory retains data even when the power is turned off?",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "Cache",
+        "d": "Volatile Memory",
+        "e": "Non-Volatile Memory",
+        "correctAnswer": "e"
+    },
+    {
+        "id": 48,
+        "questionTitle": "What does the acronym 'AGP' stand for?",
+        "a": "Advanced Graphics Port",
+        "b": "Accelerated Graphics Port",
+        "c": "Advanced General Port",
+        "d": "Accelerated General Port",
+        "e": "Advanced Graphics Processor",
+        "correctAnswer": "b"
+    },
+    {
+        "id": 49,
+        "questionTitle": "What is the primary function of thermal paste in a computer?",
+        "a": "Store data",
+        "b": "Render graphics",
+        "c": "Transfer heat between the CPU and heatsink",
+        "d": "Manage power supply",
+        "e": "Convert electrical power",
+        "correctAnswer": "c"
+    },
+    {
+        "id": 50,
+        "questionTitle": "Which type of display technology is commonly used in modern monitors and televisions?",
+        "a": "CRT",
+        "b": "LCD",
+        "c": "Plasma",
+        "d": "OLED",
+        "e": "LED",
+        "correctAnswer": "e"
+    }
+]

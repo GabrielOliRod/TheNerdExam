@@ -1,0 +1,107 @@
+.keyboardContainer {
+  position: absolute;
+  cursor: grab;
+  user-select: none;
+}
+
+.keyboardTitle {
+  background-color: gray;
+  border-radius: 10px 10px 0 0;
+  padding: 3px;
+  height: 28px;
+  text-align: center;
+  cursor: grab;
+  user-select: none;
+}
+
+.keyboardTitle h1 {
+  font-size: 1em;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.keyboard {
+  width: 13em;
+  height: 16.4em;
+  background-color: rgb(0, 0, 0);
+  border-radius: 0 0 25px 25px;
+  padding: 10px;
+  margin-top: 6px;
+}
+
+.keyboardButtonSides,
+.keyboardButtonMiddle,
+.keyboardButtonYes,
+.keyboardButtonNo {
+  margin: 0.3em;
+  margin-left: 0.85em;
+}
+
+.keyboardButtonSides {
+  width: 3em;
+  height: 3em;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 0.2em;
+  border: none;
+}
+
+.keyboardButtonMiddle {
+  font-weight: bold;
+  width: 5em;
+  height: 3.52em;
+  font-size: 0.7em;
+  border-radius: 0.2em;
+  padding: 0;
+  border: none;
+}
+
+.keyboardButtonYes {
+  font-weight: bold;
+  width: 5em;
+  height: 3.52em;
+  font-size: 0.7em;
+  border-radius: 0.2em;
+  border: none;
+  color: white;
+  background-color: green;
+}
+
+.keyboardButtonNo {
+  font-weight: bold;
+  width: 5em;
+  height: 3.52em;
+  font-size: 0.7em;
+  border-radius: 0.2em;
+  border: none;
+  color: white;
+  background-color: red;
+}
+
+.keyboardButtonYes:hover {
+  background-color: lightgreen;
+  color: black;
+}
+
+.keyboardButtonNo:hover {
+  background-color: lightsalmon;
+  color: black;
+}
+
+.keyboardButtonMiddle:hover {
+  background-color: darkgreen;
+  color: white;
+}
+
+.keyboardButtonSides:hover {
+  background-color: darkgreen;
+  color: white;
+}
+
+.keyboardContainer:active {
+  cursor: grabbing;
+}
+
+.keyboardTitle:active {
+  cursor: grabbing;
+}

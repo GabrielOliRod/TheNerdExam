@@ -1,0 +1,37 @@
+.result{
+    margin-left: 20px;
+}
+
+.result img{
+    width: 2.5%;
+}
+
+.result h3{
+    font-size: 20px;
+}
+
+.result h4{
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.titleApproved{
+    color: green;
+}
+
+.titleReproved h2, .titleApproved h2{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.titleReproved{
+    color: red;
+}
+
+.resultQuestions p{
+    font-size: 15px;
+}
+
+.resultQuestions{
+    margin-top: 30px;
+}
