@@ -1,4 +1,4 @@
-## Cinetag
+## The Nerd Exam
 [![Linkedin Badge](https://img.shields.io/badge/Gabriel%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielolirod/)
 [![YouTube Badge](https://img.shields.io/badge/Gabriel%20de%20Oliveira%20Rodrigues-red?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCzvn5ZUBETUFRwwL6pgUoWQ)
 
